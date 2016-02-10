@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VkClient</string>
+    <string name="action_settings">Settings</string>
+    <integer name="com_vk_sdk_AppId">5281269</integer>
+    <string name="login">Вход</string>
+    <string name="logout">Выход</string>
+    <string name="connection">Невозможно получить данные, возможно отсутствует соединение с Internet...</string>
+    <string name="servererror">Ошибка при связи с севрером</string>
+</resources>
